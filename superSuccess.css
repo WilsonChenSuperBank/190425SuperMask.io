@@ -1,0 +1,96 @@
+.superSuccessAll {
+  padding: 50px 80px 80px 80px;
+  background-color: #fff;
+  width: 471px;
+  margin: 0 auto;
+  border-radius: 8px;
+  border: solid 1px #dddddd;
+  background-color: #ffffff;
+}
+
+.superSuccessAll div {
+  text-align: center;
+}
+
+.superSuccessAll .ssTitle {
+  font-size: 33px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.27;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #333333;
+}
+
+.superSuccessAll .ssTitle p {
+  margin: 0 auto;
+}
+
+.superSuccessAll .ssImg {
+  margin-top: 30px;
+}
+
+.superSuccessAll .ssImg img {
+  width: 85px;
+  height: 85px;
+}
+
+.superSuccessAll .ssMsg {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 28px;
+}
+
+.superSuccessAll .ssMsg p {
+  margin: 0 auto;
+  line-height: 1.78;
+  letter-spacing: 1px;
+}
+
+.superSuccessAll .ssMsg span.ssMsgOrange {
+  color: #f79d0f;
+}
+
+.superSuccessAll .ssBtn {
+  margin-top: 30px;
+}
+
+.superSuccessAll .ssBtn a {
+  border-radius: 8px;
+  background-color: #f29500;
+  width: 100%;
+  display: inline-block;
+  color: #fff;
+  text-decoration: none;
+  padding: 12px 0;
+}
+
+.superSuccessAll .ssJump {
+  margin-top: 10px;
+}
+
+.superSuccessAll .ssJump p {
+  margin: 0 auto;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 1px;
+  text-align: center;
+  color: #8e8e8e;
+}
+
+.superSuccessAll .ssJump span.ssJumpRed {
+  font-weight: 600;
+  color: #a94442;
+}
+
+@media screen and (max-width: 768px) {
+  .superSuccessAll {
+    width: 334px;
+    padding: 50px 20px;
+  }
+}
+/*# sourceMappingURL=superSuccess.css.map */
